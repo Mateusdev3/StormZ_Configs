@@ -2,5 +2,11 @@
   "IpServer":"127.0.0.1",
   "PortServer":"2302",
   "Urlw":"http://localhost:5000/",
+  "Webl":"https://discord.com/api/webhooks/1390101378126450898/3_595tnlJOleDElOG6L-b11Hj7hY-n5Pltd7dxdjmZWOx-_ZDqapnq2NUGAIeqkLti-Q",
+  "Webp":"https://discord.com/api/webhooks/1390101673866952795/sYdIFfoDgBNWnjnMbBDJ1qfKg0WE5Ke7QTdIyoAa-LXpQCDVaCG3fZ92hRrhB9F0XX6g",
+  "Webt":"https://discord.com/api/webhooks/1390101876485390397/ylMAeEIdJxXLLHpT96lq-FlYDmH9_G-XK3hSH8K_8WKepb-u_k09cQTxDYtK9cZTIV4p",
+  "Webba":"https://discord.com/api/webhooks/1391178151320883250/kEdkc9agKY4rwnjRKwIkDfOQ0-d1XbZHqNNjCGbHltm1u4Qcr8JifNcSScCiWZIyU30K",
+  "Webha":"teste",
   "Manutencao":"false"
+  
 }
