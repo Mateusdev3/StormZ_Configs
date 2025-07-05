@@ -1,5 +1,6 @@
 {
   "IpServer":"127.0.0.1",
   "PortServer":"2302",
+  "Urlw":"http://localhost:5000/",
   "Manutencao":"false"
 }
